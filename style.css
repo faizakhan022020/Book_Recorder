@@ -1,0 +1,105 @@
+.header_div {
+    background: rgb(169, 101, 101);
+    color: rgb(81, 32, 32);
+}
+#content_c {
+    background: rgb(209, 152, 152);
+}
+#dnf {
+    margin-bottom: -13px;
+}
+#r {
+    display: inline-block;
+    margin-right: -5px;
+    width: 50px;
+}
+#genre {
+    margin-left: 10px;
+}
+#nfdiv {
+    padding-left: 20px;
+    background-color: rgb(209, 152, 152);
+}
+#df {
+    margin-bottom: -13px;
+}
+#genre {
+    margin-left: 10px;
+}
+#fdiv {
+    padding-left: 20px;
+    background-color: rgb(209, 152, 152);
+}
+#review {
+    margin-left: 10px;
+}
+#tbr_body {
+    background-color: rgb(209, 152, 152);
+}
+#orig_nf {
+    color: rgb(81, 32, 32);
+}
+#repeat_NonFiction {
+    color: rgb(81, 32, 32);
+}
+#repeat_Fiction {
+    color: rgb(81, 32, 32);
+}
+#orig_f {
+    color: rgb(81, 32, 32);
+}
+#bredirect_fiction { 
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#bsendOngoing {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#bsendTBR {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#bredirect_tbr {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#bredirect_nonfiction {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#brepeat_F {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
+
+#brepeat_NF {
+    color:rgb(247, 228, 228); 
+    border-radius: 20px; 
+    background-color:rgb(146, 87, 87); 
+    border:1px solid; 
+    border-color: rgb(236, 203, 203) rgb(245, 136, 136) rgb(236, 203, 203) rgb(245, 136, 136); 
+}
